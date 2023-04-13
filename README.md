@@ -55,24 +55,4 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Phydy/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/phydy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hw7b1sll8xgi2pfaloyow6reu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
