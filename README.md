@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phydy</h1>
 <h3 align="center">Backend Blockchain Developer from Nairobi, Kenya. I specialize on backends and smart -contracts</h3>
 
-- 💬 Ask me about **Rust, Solidity, Python, Web3, Defi**
+- 💬 Ask me about **Rust, Solidity, Move, Cairo, Python, Web3, Defi, Solana, Aptos, Starknet**
 
 - 📫 How to reach me **mphidel@gmail.com**
 
